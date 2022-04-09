@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80e80f5-4b85-42af-b175-45e7bd357d39" name="变更" comment="@Version 1.0.0">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/[Bug]IssueTemplate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/[Feature]IssueTemplate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/contribute/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/talextouchqq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/electron/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/index.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/TalexMusic-q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/TalexMusic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/talexmusic-logo-frame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/talexmusic-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/assets/talexmusic.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/button/TBubbleButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/button/TFButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/card/device/DeviceCardPad.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/Album.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/CircleLoading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/ListIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/Loading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/MessageIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/QuitLoading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/TIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/chat/icon/ThemeChange.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/dialog/FloatDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/dialog/TalexDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/dialog/TalexImgViewer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/icon/QIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/icon/TIcon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/input/TFInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/input/TInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/input/TNInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/mention/TipMentioner.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/others/TMarquee.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/selector/TFSelector.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/selector/TFSelectorItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/switch/TFSwitch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/components/talex/tmusic/svg/TMusicCompose.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/QIconFont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/TMusic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/TalexComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/datastore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/plugins/updater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/theme/GlobalElement.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/theme/GlobalStyle.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/theme/TFontIcon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/theme/animations/loginAnimation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/chat/ChatBarRouter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/chat/MainChat.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/chat/MainChat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/list/ContactList.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/list/ContactList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/list/FriendContact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/list/GroupContact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/loading/TouchLoading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/music/MusicMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer/views/music/MusicMainBar.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20YAVZwiAjBq4OyNlXEXVtXvMI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.0" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Applications/Electron/study-desktop" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="G:\WorkSpace\Web\Vue\Application\talexmusic\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WorkSpace\Web\Vue\Application\talexmusic\src\renderer\views\music" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talexmusic\src\renderer\components\talex\button" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talexmusic\src\renderer\components\talex\input" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talexmusic\src\renderer\assets" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talextouchqq\src\renderer\components\talex\input" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\WorkSpace\Web\Vue\Application\talextouchqq\src\renderer\components\talex\input" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talextouchqq\src\renderer\components\talex" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talextouchqq\src\renderer" />
+      <recent name="G:\WorkSpace\Web\Vue\Application\talextouchqq\src\renderer\main" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="&gt;" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b80e80f5-4b85-42af-b175-45e7bd357d39" name="变更" comment="" />
+      <created>1636211171555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636211171555</updated>
+      <workItem from="1636211173544" duration="25093000" />
+      <workItem from="1636707826632" duration="20479000" />
+      <workItem from="1636810367057" duration="22955000" />
+      <workItem from="1637404178635" duration="26518000" />
+      <workItem from="1637483569033" duration="104000" />
+      <workItem from="1638012739108" duration="1382000" />
+      <workItem from="1638014658487" duration="4329000" />
+      <workItem from="1638019406377" duration="23492000" />
+      <workItem from="1638611783341" duration="2934000" />
+      <workItem from="1638668655069" duration="212000" />
+      <workItem from="1638668889153" duration="18011000" />
+      <workItem from="1638690093745" duration="2364000" />
+      <workItem from="1639217618976" duration="15621000" />
+      <workItem from="1639825060608" duration="350000" />
+      <workItem from="1639825440537" duration="110000" />
+      <workItem from="1639826160513" duration="37000" />
+      <workItem from="1639827256714" duration="179000" />
+      <workItem from="1639827783149" duration="107000" />
+      <workItem from="1639828600397" duration="27000" />
+      <workItem from="1639828678904" duration="61952000" />
+      <workItem from="1640355524841" duration="22424000" />
+      <workItem from="1640412283812" duration="6578000" />
+      <workItem from="1640945640069" duration="1251000" />
+      <workItem from="1640947121665" duration="13670000" />
+      <workItem from="1641129842834" duration="2818000" />
+      <workItem from="1641133749876" duration="609000" />
+      <workItem from="1642169650684" duration="2540000" />
+      <workItem from="1642175046108" duration="608000" />
+      <workItem from="1642222566795" duration="3002000" />
+      <workItem from="1642472571335" duration="88000" />
+      <workItem from="1642475303552" duration="863000" />
+      <workItem from="1647678762981" duration="88000" />
+      <workItem from="1648294531022" duration="10000" />
+      <workItem from="1648302582826" duration="13116000" />
+      <workItem from="1648317222556" duration="1803000" />
+      <workItem from="1648321373112" duration="2925000" />
+      <workItem from="1648891643087" duration="232000" />
+      <workItem from="1648891972113" duration="2857000" />
+      <workItem from="1649129588368" duration="110000" />
+      <workItem from="1649505379042" duration="1782000" />
+    </task>
+    <task id="LOCAL-00001" summary="@Version 2.0.0-Lite (UI FIFXED)">
+      <created>1636218397667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636218397667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="@Version 2.0.0-Lite (UI FIFXED)">
+      <created>1636268261911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636268261911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="@Version 2.0.0-Lite (UI FIFXED)">
+      <created>1636268487540</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636268487540</updated>
+    </task>
+    <task id="LOCAL-00004" summary="@Version 2.0.0-Lite (UI FIXED)">
+      <created>1636802796772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636802796772</updated>
+    </task>
+    <task id="LOCAL-00005" summary="@Version 3.0.0-Lite (UI FIXED)">
+      <created>1638019540841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638019540841</updated>
+    </task>
+    <task id="LOCAL-00006" summary="@Version 3.0.0-Lite (UI FIXED)">
+      <created>1638021136389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638021136389</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="@Version 2.0.0-Lite (UI FIFXED)" />
+    <MESSAGE value="@Version 2.0.0-Lite (UI FIXED)" />
+    <MESSAGE value="@Version 3.0.0-Lite (UI FIXED)" />
+    <MESSAGE value="@Version 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="@Version 1.0.0" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
